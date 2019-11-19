@@ -1,0 +1,10 @@
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\bin\Debug\WEMCompilerTool.exe.config
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\bin\Debug\WEMCompilerTool.exe
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\bin\Debug\WEMCompilerTool.pdb
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\bin\Debug\WEMCompiler.dll
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\bin\Debug\WEMCompiler.pdb
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\obj\Debug\WEMCompilerTool.csprojAssemblyReference.cache
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\obj\Debug\WEMCompilerTool.csproj.CoreCompileInputs.cache
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\obj\Debug\WEMCompilerTool.csproj.CopyComplete
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\obj\Debug\WEMCompilerTool.exe
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompilerTool\obj\Debug\WEMCompilerTool.pdb

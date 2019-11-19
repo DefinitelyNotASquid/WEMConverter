@@ -1,0 +1,5 @@
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompiler\bin\Debug\WEMCompiler.dll
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompiler\bin\Debug\WEMCompiler.pdb
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompiler\obj\Debug\WEMCompiler.csproj.CoreCompileInputs.cache
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompiler\obj\Debug\WEMCompiler.dll
+C:\Users\smell\Documents\GitHub\WEMConverter\WEMCompiler\obj\Debug\WEMCompiler.pdb
